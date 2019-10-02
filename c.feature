@@ -3,6 +3,9 @@ Feature: Serve coffee
     I can get coffee from the machine
     So I can enjoy the rest of the day
 
+
+    ppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp
+
   @2_01
   Scenario: 3.01 - A User logs in successfully
     Given I am on the Welcome  sd qdq sdscreen
